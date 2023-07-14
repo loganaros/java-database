@@ -1,4 +1,14 @@
-# Portfolio
-My Junior Developer portfolio that showcases some of my best work and best practices when developing software.
-# About Me
-Hello, my name is Logan and I have been tinkering with computers since the age of 5. I built my first gaming PC when I was just 13 years old, and started coding aroung that age as well. In high school, I took every computer programming and game design class that was offered, and learned so quickly that my average score in the class was 115% as my teacher would give me extra credit for teaching the other kids. I eventually joined a program called FBLA, where I competed in cybersecurity and computer programming competitions, placing 4th in state and going to nationals to compete for computer programming. My main languages are Java and C#, and OOP is where I excel the most. Since then, I have continued to teach myself over 10 different languages, including C++, Python, Ruby, Swift, JavaScript, HTML, CSS, and more.
+# java-database
+Java database coded entirely in Java, runs as a .jar executable file and saves and stores information in .dat file.
+# About
+Created as part of a national FBLA computer programming competition, goal of program was to be a database that reads/writes information to a database and saves it for future use. The project I chose to do is a library database for keeping track of book check-in/check-out records and associating them with a student. Students and books could be created and deleted, each with their own individual 6 digit unique identifier.
+# Features
+- Create, delete, and store all user data
+- Does not allow repeat users or books to be created, throws error
+- Saves all information to local .dat file
+- GUI for ease of use
+- Executable .jar file
+- 'Settings' console to monitor activity
+- Application is responsive and self adjusts to different width and height dimensions
+# Languages Used
+Java
